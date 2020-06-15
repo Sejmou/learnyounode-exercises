@@ -1,0 +1,5 @@
+this
+should
+have
+four
+new line characters
